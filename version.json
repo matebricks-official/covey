@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "4.0.0",
   "download_url": "https://github.com/matebricks-official/covey/releases/download/1.1.0/payload.zip",
-  "notes": "VISIT https://covey.matebricks.com/ TO UPDATE COVEY TO NEWER VERSION"
+  "notes": "Major ui upgrades and feature additions"
 }
